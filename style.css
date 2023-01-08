@@ -28,7 +28,7 @@ li {
 
 .bulkofpage {
 	padding: 50px;
-
+	display: flex;
 }
 
 .intro {
