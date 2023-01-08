@@ -28,6 +28,10 @@ li {
 	color: #fff;
 }
 
+.nav-links {
+	display: inline;
+}
+
 .nav-links li {
 	display: inline;
 }
