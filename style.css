@@ -28,16 +28,14 @@ li {
 	color: #fff;
 }
 
-.nav-links {
-	display: inline;
+.intro {
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
-.nav-links li {
-	display: inline;
-}
-
-.nav-links a {
-	color: #fff;
+.meatncheese {
+	padding-left: 50px;
+	padding-right: 50px;
 }
 
 .logo {
