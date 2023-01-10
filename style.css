@@ -40,13 +40,18 @@ li {
 	margin-right: 100px;
 }
 
-.intro p {
+.intro h1 {
 	margin-left: 100px;
 	margin-right: 100px;
 	padding: 50px;
 }
 
 .meatncheese {
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+.meatncheese p {
 	margin-left: 100px;
 	margin-right: 100px;
 }
